@@ -65,5 +65,5 @@ So in this example we start with an empty stack and then plate number one is pus
 ![Screenshot](pictures/reverseword.jpg)<br><br>
 
 In this problem you will create an empty stack. Then you will have to convert strings into characters and place then into the empty stack, then you will have to pop them back up into a character array and convert the characters back into a string.<br>
-[Solution](https://github.com/learrieta/Solutions.git)
+[Solution](https://github.com/learrieta/Final-Project/blob/master/solutions/reverseWord.md)
 

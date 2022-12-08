@@ -71,7 +71,7 @@ Console.Write("The number of songs in my playlist is : playlist.Count) /// It wi
 ## Problem to Solve :  Uniting to HashSets
 ![Screenshot](pictures/img.jpg)<br><br>
 In the following code you will create 2 different sets, one will contain a name and one a last name, then we will try to add them together. Try to print out the name "Joseph Smith" using two different sets.<br>
-[Solution](https://github.com/learrieta/Solutions.git)
+[Solution](https://github.com/learrieta/Final-Project/blob/master/solutions/unitingHashsets.md)
 
 
 

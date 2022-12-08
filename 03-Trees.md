@@ -106,7 +106,7 @@ public class BinaryTree {
 ## Problem to Solve: Print left nodes of this html tree.
 ![Screenshot](pictures/html.png)<br><br>
 For this problem you will need to use recursion. You will have to keep track of the left node level by passing the level as a parameter to the recursive calls. So at the ned of your code, it should print head, meta,ul and li<br>
-[Solution](https://github.com/learrieta/Solutions.git)
+[Solution](https://github.com/learrieta/Final-Project/blob/master/solutions/PrintingLeftNode.md)
 
 
 
