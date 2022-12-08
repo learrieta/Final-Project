@@ -38,7 +38,7 @@ while (pancakes.Count > 2)
 
 ## Example: Washing plates
 So in this example we start with an empty stack and then plate number one is push into the stack. Plate number 2 is also push into the stack in top of the number one, subsequently we will be ble to push multiple plates into the stack. But the last one to be push in will be the last one to be "pop" out like in the example. 
-![Screenshot](Stack.jpg)<br><br>
+![Screenshot](pictures/Stack.jpg)<br><br>
 
 ```
     // Creating a Stack of strings
